@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">week5_task</string>
+    <string name="full_name">Karrar Jasim</string>
+    <string name="job">Developer</string>
+    <string name="rating">4.5</string>
+    <string name="reviews">(150 Reviews)</string>
+    <string name="location">IQ</string>
+    <string name="time">3 hr</string>
+    <string name="Local">Iraq</string>
+    <string name="duration">5 Days ago</string>
+    <string name="place_icon">place_icon</string>
+    <string name="rating_icon">rating_icon</string>
+</resources>

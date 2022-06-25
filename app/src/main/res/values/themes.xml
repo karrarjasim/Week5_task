@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Week5_task" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+    </style>
+    <style name="RoundedSquare">
+        <item name="cornerSize">10dp</item>
+    </style>
+</resources>
